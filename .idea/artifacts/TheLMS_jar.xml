@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TheLMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TheLMS_jar</output-path>
+    <root id="archive" name="TheLMS.jar">
+      <element id="module-output" name="TheLMS" />
+    </root>
+  </artifact>
+</component>
